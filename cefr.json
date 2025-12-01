@@ -4066,14 +4066,9 @@
   ],
   "headword": [
     {
-      "pos": "pos",
-      "cefr": "CEFR",
-      "notes": "notes"
-    },
-    {
-      "pos": "pos",
-      "cefr": "CEFR",
-      "notes": "notes"
+      "pos": "noun",
+      "cefr": "C1",
+      "notes": ""
     }
   ],
   "a": [
